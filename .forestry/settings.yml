@@ -9,10 +9,6 @@ sections:
   label: Projects
   create: all
   match: "*"
-- type: jekyll-pages
-  label: Projects
-  create: all
-  match: "**/*"
 - type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
