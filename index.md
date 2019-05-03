@@ -74,7 +74,18 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: ABOUT STEVEN CHU<br>Steven is a digital product designer (hybrid designer
+    + developer), instructor, and photographer based in NYC. With 12+ years experience,
+    Steven started as an mobile marketing tour experience designer for Jack Morton
+    Worldwide, moving into advertising as digital art director at FCB &amp; Deutsch,
+    and senior art director at Ketchum Change. Steven is also a long-time photographer
+    and brand consultant for fashion brands. He currently toggles his time between
+    socially driven causes, creative collaborations, and designing great user experiences.<br><br>WHAT
+    STEVEN DOES<br>User Experience Design (UX) + Product DesignFront-end programmingBrand
+    IdentityMentorship &amp; CoachingAnimation &amp; Social Media Content Production<br><br><a
+    href="http://stevenchu.com/">Studio</a> &amp; <a href="http://chuubie.com/">Event
+    Photography</a><br><br>CONTACT+1 646 450 2809 | work@stevenchustudio.com | <a
+    href="https://stevenchustudio.com/about/">RESUME</a>
 
 ---
 foo bar

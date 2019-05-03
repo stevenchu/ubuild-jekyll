@@ -32,5 +32,5 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _projects/marie-forleo.md
 - index.md
+- _projects/marie-forleo.md
